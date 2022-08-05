@@ -6,6 +6,6 @@ This experiment can be set to be a non-strategic version where the participant s
 The experiment can also be set to include information seeking trials, where the participant after making a decision and confidence judgement, does not see a partner's response but instead is asked if they would like to see an easier version of the stimulus again (as a measure of "true" decision confidence). 
 Strategic/non-strategic version (line 78), dots/squircles version (line 75) and basic/info-seeking version (line 68) can all be set in index.html
 
-In this version, the partners have a choice bias. It also includes private trials where the participants bet on their responses (rather than giving a confidence estimate) as wekk as the Big5 and Multidimensional Iowa Suggestibility scales.
+In this version, the partners have a choice bias. It also includes private trials where the participants bet on their responses (rather than giving a confidence estimate) as well as the Big5 and Multidimensional Iowa Suggestibility scales.
 
-Code for Study 6
+Code for Study 6 (undergrad project anna)
