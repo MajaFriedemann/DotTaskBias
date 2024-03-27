@@ -8,4 +8,4 @@ Strategic/non-strategic version (line 78), dots/squircles version (line 75) and 
 
 In this version, the partners have a choice bias. It also includes private trials where the participants bet on their responses (rather than giving a confidence estimate) as well as the Big5 and Multidimensional Iowa Suggestibility scales.
 
-Code for Study 6 (undergrad project anna)
+Code for DPhil Study 6 (undergrad project anna)
